@@ -1,0 +1,12 @@
+{
+  "auth": {
+    "consumer_key": "xxxxxxxxxxxxxxxxxxxxx",
+    "consumer_secret": "xxxxxxxxxxxxxxxxxxxxx",
+    "access_token_key": "xxxxxxxxxxxxxxxxxxxxx",
+    "access_token_secret": "xxxxxxxxxxxxxxxxxxxxx"
+  },
+  "params": {
+    "screen_name" : "xxxx",
+    "count": 200
+  }
+}
