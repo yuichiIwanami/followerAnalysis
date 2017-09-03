@@ -1,19 +1,19 @@
 {
-  "name": "application-name",
-  "version": "0.0.1",
-  "main": "index.js",
-  "dependencies": {
-    "baconjs": "^0.7.77",
-    "config": "^1.16.0",
-    "es6-module-loader": "^0.17.8",
-    "moment": "^2.10.6",
-    "twitter": "^1.2.5"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "yuichi iwanami",
-  "license": "ISC",
-  "description": "twitter followers analysis"
+    "name": "application-name",
+    "version": "0.0.1",
+    "main": "index.js",
+    "dependencies": {
+        "baconjs": "^0.7.77",
+        "config": "^1.16.0",
+        "moment": "^2.18.1",
+        "twitter": "^1.2.5"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "yuichi iwanami",
+    "license": "ISC",
+    "description": "twitter followers analysis"
 }
